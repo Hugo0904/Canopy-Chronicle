@@ -10,7 +10,7 @@
     {
       "name": "canopy-chronicle",
       "description": "專案的歷史紀錄，用關鍵字查回做過什麼、為什麼這樣決定、踩過什麼坑。Claude Code 與 Codex 共用。",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "Hugo0904"
       },
