@@ -1,0 +1,24 @@
+{
+  "name": "canopy-chronicle",
+  "version": "0.1.0",
+  "description": "專案的歷史紀錄，用關鍵字查回做過什麼、為什麼這樣決定、踩過什麼坑。Claude Code 與 Codex 共用。",
+  "author": {
+    "name": "Hugo0904",
+    "url": "https://github.com/Hugo0904"
+  },
+  "homepage": "https://github.com/Hugo0904/Canopy-Chronicle",
+  "repository": "https://github.com/Hugo0904/Canopy-Chronicle",
+  "license": "MIT",
+  "keywords": ["history", "log", "decisions", "chronicle"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Canopy Chronicle",
+    "shortDescription": "查得回來的專案歷史紀錄",
+    "longDescription": "把專案做過的事、做過的決定、踩過的坑記在家目錄，一筆一筆、用關鍵字查得回來。說「記下來」寫一筆，說「查紀錄」或問「之前為什麼這樣做」就去查。",
+    "developerName": "Hugo0904",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://github.com/Hugo0904/Canopy-Chronicle",
+    "defaultPrompt": ["查紀錄"]
+  }
+}

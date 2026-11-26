@@ -1,0 +1,20 @@
+{
+  "name": "canopy-chronicle",
+  "interface": {
+    "displayName": "Canopy Chronicle"
+  },
+  "plugins": [
+    {
+      "name": "canopy-chronicle",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

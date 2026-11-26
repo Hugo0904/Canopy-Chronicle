@@ -1,0 +1,12 @@
+{
+  "name": "canopy-chronicle",
+  "version": "0.1.0",
+  "description": "專案的歷史紀錄，用關鍵字查回做過什麼、為什麼這樣決定、踩過什麼坑。Claude Code 與 Codex 共用。",
+  "author": {
+    "name": "Hugo0904"
+  },
+  "homepage": "https://github.com/Hugo0904/Canopy-Chronicle",
+  "repository": "https://github.com/Hugo0904/Canopy-Chronicle",
+  "license": "MIT",
+  "keywords": ["history", "log", "decisions", "chronicle"]
+}
